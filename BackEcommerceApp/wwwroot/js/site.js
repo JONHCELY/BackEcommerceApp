@@ -1,0 +1,1 @@
+﻿window.$('#table_id').DataTable();
